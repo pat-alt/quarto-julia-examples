@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto 🤝 Julia\n",
+    "section": "",
+    "text": "Julia-themed Quarto.\nThe quarto-julia repo is a simple Quarto extension that makes a number of Julia-themed Custom Formats for Quarto available.\nOn this website you can find a number of examples that demonstrate how the extension can be used and what kind of output it can produce.\nAs you may have guessed from the design, this very website uses the quarto-julia extension."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "examples/revealjs.html#introduction",
+    "href": "examples/revealjs.html#introduction",
+    "title": "Revealjs Presentation",
+    "section": "Introduction",
+    "text": "Introduction\nThis Quarto notebook generates a Julia-themed Revealjs presentation."
+  },
+  {
+    "objectID": "examples/revealjs.html#slide-with-code",
+    "href": "examples/revealjs.html#slide-with-code",
+    "title": "Revealjs Presentation",
+    "section": "Slide with code",
+    "text": "Slide with code\nInline code looks like this print(\"hello 🌍\").\nprint(\"hello 🌍\")"
+  },
+  {
+    "objectID": "examples/article/index.html",
+    "href": "examples/article/index.html",
+    "title": "Julia-themed Articles",
+    "section": "",
+    "text": "This page you’re on now is a citeable article."
+  },
+  {
+    "objectID": "examples/revealjs/revealjs.html#introduction",
+    "href": "examples/revealjs/revealjs.html#introduction",
+    "title": "Revealjs Presentation",
+    "section": "Introduction",
+    "text": "Introduction\nThis Quarto notebook generates a Julia-themed Revealjs presentation."
+  },
+  {
+    "objectID": "examples/revealjs/revealjs.html#slide-with-code",
+    "href": "examples/revealjs/revealjs.html#slide-with-code",
+    "title": "Revealjs Presentation",
+    "section": "Slide with code",
+    "text": "Slide with code\nInline code looks like this print(\"hello 🌍\").\nprint(\"hello 🌍\")"
+  },
+  {
+    "objectID": "examples/article/index.html#how-to",
+    "href": "examples/article/index.html#how-to",
+    "title": "Julia-themed Articles",
+    "section": "How to?",
+    "text": "How to?"
+  },
+  {
+    "objectID": "examples/article/index.html#introduction",
+    "href": "examples/article/index.html#introduction",
+    "title": "Julia-themed Articles",
+    "section": "Introduction",
+    "text": "Introduction\nThis Quarto notebook generates Julia-themed output."
+  },
+  {
+    "objectID": "examples/article/index.html#details",
+    "href": "examples/article/index.html#details",
+    "title": "Julia-themed Articles",
+    "section": "Details",
+    "text": "Details\nThe theme is based on the default theme and adds various custom formatting options."
+  },
+  {
+    "objectID": "examples/documenter/index.html",
+    "href": "examples/documenter/index.html",
+    "title": "Quarto and Documenter.jl",
+    "section": "",
+    "text": "Since Documenter.jl takes Markdown documents as input, you can use Quarto with Documenter.jl for package documentation."
+  },
+  {
+    "objectID": "examples/revealjs/index.html",
+    "href": "examples/revealjs/index.html",
+    "title": "Julia-themed Revealjs",
+    "section": "",
+    "text": "Remember PowerPoint? 🤨 boring … how about using Revealjs for your next presentation instead. You can find an example slide deck here."
+  },
+  {
+    "objectID": "examples/revealjs/revealjs.html#details",
+    "href": "examples/revealjs/revealjs.html#details",
+    "title": "Revealjs Presentation",
+    "section": "Details",
+    "text": "Details\nThe theme is based on the default theme and adds various custom formatting options.\nFont\nThe theme uses the JuliaMono font.\nColors\nCode\nInline code looks like this print(\"hello 🌍\").\n\nprint(\"hello 🌍\")\nCallouts\n\n\n\n\n\n\nNote\n\n\nThis is a note in julia_blue.\n\n\n\n\n\n\n\n\n\nTip\n\n\nThis is a tip in julia_green.\n\n\n\n\n\n\n\n\n\nCaution\n\n\nThis is a caution callout in julia_purple.\n\n\n\n\n\n\n\n\n\nWarning\n\n\nThis is a warning in julia_purple.\n\n\n\n\n\n\n\n\n\nImportant\n\n\nThis is an important callout in julia_red."
+  },
+  {
+    "objectID": "examples/article/index.html#font",
+    "href": "examples/article/index.html#font",
+    "title": "Julia-themed Articles",
+    "section": "Font",
+    "text": "Font\nThe theme uses the JuliaMono font."
+  },
+  {
+    "objectID": "examples/article/index.html#code",
+    "href": "examples/article/index.html#code",
+    "title": "Julia-themed Articles",
+    "section": "Code",
+    "text": "Code\nInline code looks like this print(\"hello 🌍\").\n\nprint(\"hello 🌍\")"
+  },
+  {
+    "objectID": "examples/article/index.html#colors",
+    "href": "examples/article/index.html#colors",
+    "title": "Julia-themed Articles",
+    "section": "Colors",
+    "text": "Colors"
+  },
+  {
+    "objectID": "examples/article/index.html#callouts",
+    "href": "examples/article/index.html#callouts",
+    "title": "Julia-themed Articles",
+    "section": "Callouts",
+    "text": "Callouts\n\n\n\n\n\n\nNote\n\n\n\nThis is a note in julia_blue.\n\n\n\n\n\n\n\n\nTip\n\n\n\nThis is a tip in julia_green.\n\n\n\n\n\n\n\n\nCaution\n\n\n\nThis is a caution callout in julia_purple.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nThis is a warning in julia_purple.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThis is an important callout in julia_red."
+  },
+  {
+    "objectID": "examples/revealjs/example.html#details",
+    "href": "examples/revealjs/example.html#details",
+    "title": "Revealjs Presentation",
+    "section": "Details",
+    "text": "Details\nThe theme is based on the default theme and adds various custom formatting options."
+  },
+  {
+    "objectID": "examples/revealjs/example.html#font",
+    "href": "examples/revealjs/example.html#font",
+    "title": "Revealjs Presentation",
+    "section": "Font",
+    "text": "Font\nThe theme uses the JuliaMono font."
+  },
+  {
+    "objectID": "examples/revealjs/example.html#colors",
+    "href": "examples/revealjs/example.html#colors",
+    "title": "Revealjs Presentation",
+    "section": "Colors",
+    "text": "Colors"
+  },
+  {
+    "objectID": "examples/revealjs/example.html#code",
+    "href": "examples/revealjs/example.html#code",
+    "title": "Revealjs Presentation",
+    "section": "Code",
+    "text": "Code\nInline code looks like this print(\"hello 🌍\").\n\nprint(\"hello 🌍\")"
+  },
+  {
+    "objectID": "examples/revealjs/example.html#callouts",
+    "href": "examples/revealjs/example.html#callouts",
+    "title": "Revealjs Presentation",
+    "section": "Callouts",
+    "text": "Callouts\n\n\n\n\n\n\nNote\n\n\nThis is a note in julia_blue.\n\n\n\n\n\n\n\n\n\nTip\n\n\nThis is a tip in julia_green.\n\n\n\n\n\n\n\n\n\nCaution\n\n\nThis is a caution callout in julia_purple.\n\n\n\n\n\n\n\n\n\nWarning\n\n\nThis is a warning in julia_purple.\n\n\n\n\n\n\n\n\n\nImportant\n\n\nThis is an important callout in julia_red."
+  }
+]

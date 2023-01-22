@@ -1,0 +1,10 @@
+---
+title: Revealjs Presentation
+subtitle: Julia-themed Quarto
+format:
+  julia-revealjs: default
+author: pat-alt
+date: last-modified
+---
+
+{{< include ../_content.qmd >}}
